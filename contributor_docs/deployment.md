@@ -46,7 +46,7 @@ _Note_: The installation steps assume you are using a Unix-like shell. If you ar
 If you are interested in hosting and deploying your own p5.js Web Editor instance, you can! It would be the same as the official editor instance at editor.p5js.org, except with a different domain, and you would be in charge of the maintenance. We recommend using Heroku as you can host it for free.
 
 1. Sign up for a free account at: [Heroku](https://www.heroku.com/)
-2. Click here: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/processing/p5.js-web-editor/tree/develop)
+Build.io
 3. Enter a unique *App name*, this will become part of the URL (i.e. https://app-name.herokuapp.com/)
 4. Update any configuration variables, or accept the defaults for a quick evaluation (they can be changed later to enable full functionality)
 5. Click on the "Deploy app" button
